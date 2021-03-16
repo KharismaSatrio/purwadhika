@@ -15,8 +15,7 @@ def proses(x):
             
     str(ganjil)
     str(genap)
-    gabungan.append(ganjil)
-    gabungan.append(genap)
-    print(gabungan)
+
+    print(ganjil+genap)
 
 proses(x)
